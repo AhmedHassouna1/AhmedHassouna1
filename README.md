@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="250"/>
-</p>
+
 
 <h1 align="center">Hi there, I'm Ahmed 👋</h1>
 <h3 align="center">Backend & Game Developer | Founder of SmartCode</h3>
