@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="250"/>
+</p>
 
 <h1 align="center">Hi there, I'm Ahmed 👋</h1>
 <h3 align="center">Backend & Game Developer | Founder of SmartCode</h3>
@@ -39,16 +41,11 @@
 
 ---
 
----
-
 ## 💼 Projects
-<p align="center">
-  <b>Some of my most impactful and professional projects:</b>
-</p>
+<p align="center"><b>Professional showcase of my projects:</b></p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-<!-- Project 1 -->
 <div style="background: linear-gradient(135deg, #6DB33F, #A8E063); border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 10px 25px rgba(0,0,0,0.2); text-align: center; transition: transform 0.3s;">
   <h3 style="color:#fff;">Smart Field Schools Platform</h3>
   <p style="color:#fff;"><b>Tech:</b> Laravel & Angular</p>
@@ -56,7 +53,6 @@
   <p><a href="https://github.com/AhmedAmerHassouna/SmartFieldSchools" target="_blank" style="text-decoration:none; font-weight:bold; color:#fff; background:rgba(0,0,0,0.3); padding: 5px 10px; border-radius: 5px;">View on GitHub</a></p>
 </div>
 
-<!-- Project 2 -->
 <div style="background: linear-gradient(135deg, #000000, #434343); border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 10px 25px rgba(0,0,0,0.2); text-align: center; transition: transform 0.3s;">
   <h3 style="color:#fff;">Mission-based Multiplayer Game</h3>
   <p style="color:#fff;"><b>Tech:</b> Unity & C#</p>
@@ -64,7 +60,6 @@
   <p><a href="https://github.com/AhmedAmerHassouna/UnityGameProject" target="_blank" style="text-decoration:none; font-weight:bold; color:#fff; background:rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 5px;">View on GitHub</a></p>
 </div>
 
-<!-- Project 3 -->
 <div style="background: linear-gradient(135deg, #FF2D20, #FF7A5C); border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 10px 25px rgba(0,0,0,0.2); text-align: center; transition: transform 0.3s;">
   <h3 style="color:#fff;">SmartCode Projects Showcase</h3>
   <p style="color:#fff;"><b>Description:</b> Various software solutions for clients</p>
@@ -74,11 +69,7 @@
 
 </div>
 
-<p align="center" style="margin-top: 10px; font-style: italic; color:#888;">Hover over each project card to see subtle zoom effect (works on GitHub preview)</p>
-
-
-
-
+---
 
 ## ⚡ Skills & Tools
 <p align="center">
