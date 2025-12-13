@@ -148,6 +148,13 @@ Scalable online store with integrated payment and inventory management systems
 ✨ Passionate about creating innovative solutions that make a difference!
 </h3>
 
+## 😄 Fun facts
+
+- Coffee > Tea (adjust to taste)
+- Enjoys solving puzzles and building small hardware projects
+- Loves clean documentation and great commit messages
+
+---
 <div align="center">
 
 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
