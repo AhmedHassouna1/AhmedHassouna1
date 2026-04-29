@@ -41,7 +41,7 @@
       </td>
       <td>
         <blockquote>
-          <b>Full Stack & Game Developer</b> with a Bachelor's degree in Software Development and <b>2+ years</b> of hands-on experience architecting and delivering production-grade applications. I specialize in building <b>high-performance backend systems</b> with Spring Boot & Laravel, creating <b>immersive game experiences</b> with Unity Engine, and deploying <b>cloud-native solutions</b> on AWS. My approach combines <b>clean architecture principles</b> with modern DevOps practices to deliver scalable, maintainable software.
+          <b>Full Stack & Game Developer</b> with a Bachelor's degree in Software Development and <b>5+ years</b> of hands-on experience architecting and delivering production-grade applications. I specialize in building <b>high-performance backend systems</b> with Spring Boot & Laravel, creating <b>immersive game experiences</b> with Unity Engine, and deploying <b>cloud-native solutions</b> on AWS. My approach combines <b>clean architecture principles</b> with modern DevOps practices to deliver scalable, maintainable software.
         </blockquote>
       </td>
     </tr>
